@@ -45,5 +45,5 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ### Look-ahead and Look-behind
 
 ## Author
-
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Github: https://github.com/Jaysahhn || 
+Github Repo: https://github.com/Jaysahhn/Week-17-Jasons-RegexTutorial

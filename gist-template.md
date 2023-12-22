@@ -1,6 +1,6 @@
-# Jason's Regex Tutorial 
+# Jason's Regex Tutorial (Matching a Hex Value)
 
-Introductory paragraph (replace this with your text)
+Matching a Hex Value – ```/^#?([a-f0-9]{6}|[a-f0-9]{3})$/```
 
 ## Summary
 
